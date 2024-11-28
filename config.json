@@ -1,4 +1,4 @@
 {
-  "prefix": "/",
+  "prefix": ".",
   "endpoints": "https://ajiro-rest-api.gleeze.com"
 }
